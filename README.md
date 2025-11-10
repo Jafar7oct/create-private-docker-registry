@@ -35,6 +35,8 @@ By running your **own registry**, you:
 
 ---
 
-## 🛤️ Track the pdf steps to create one 
-  -v /opt/registry/data:/var/lib/registry \
-  registry:2
+# 🛤️ Track the PDF steps to create one in the reposoitory 
+
+
+
+
